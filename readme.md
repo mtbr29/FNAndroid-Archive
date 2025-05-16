@@ -6,6 +6,7 @@ i'm uploading the builds on archive.org and on GitHub (release section)
 
 # downloads:
 
+if someone want to help me to organize this open an issue
 
 
 ( https://github.com/mtbr29/FNAndroid-Archive/releases/download/Apk/10.10noproxy-signed.apk )[10.10noproxy-signed.apk]
