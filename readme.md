@@ -5,6 +5,9 @@ hey guys, welcome to this archive, i'm trying to get most of builds available! i
 
 i'm uploading the builds on archive.org and on GitHub (release section)
 official website: https://mtbr29.dev/builds
+# credits
+https://discord.com/users/586256719366324235: DHyper
+https://github.com/itztiva/FortniteAndroidBuilds: Itztiva
 # downloads:
 
 if someone want to help me to organize this open an issue
